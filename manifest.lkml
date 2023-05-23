@@ -1,3 +1,5 @@
+project_name: "looker-test-2"
+
 constant: CONNECTION_NAME {
   value: "qin-cortex-demo"
   export: override_required
@@ -14,6 +16,6 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "001"
+  value: "100"
   export: override_required
 }
