@@ -6,7 +6,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "data_platform_framework_demo"
+  value: "data-platform-framework-demo"
   export: override_required
 }
 
