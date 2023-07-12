@@ -1,4 +1,4 @@
-project_name: "looker-test-2"
+project_name: "cortex_demo_2"
 
 constant: CONNECTION_NAME {
   value: "qin-cortex-demo"
@@ -6,7 +6,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "qin-cortex-demo"
+  value: "data_platform_framework_demo"
   export: override_required
 }
 
